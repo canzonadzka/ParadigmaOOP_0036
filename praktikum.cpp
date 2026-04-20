@@ -29,4 +29,7 @@ int main() {
     nonelektronik.kategori ="nonelektronik";
     nonelektronik.tanggalproduksi = "20-12-2021";
 
+    elektronik.printData();
+    nonelektronik.printData();
 }
+
