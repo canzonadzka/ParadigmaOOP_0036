@@ -23,3 +23,7 @@ int main(){
 
     mhs.printData();
 }
+
+#include <iostream>
+#include <string>
+using namespace std;
