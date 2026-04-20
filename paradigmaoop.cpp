@@ -42,3 +42,10 @@ void printData(){
         cout << "Tanggalproduksi: " << tanggalproduksi<< endl;
     }   
 };
+int main() {
+    Barang elektronik;
+    elektronik.nama ="PC";
+    elektronik.jumlah = 2;
+    elektronik.kategori ="elektronik";
+    elektronik.tanggalproduksi = "20-12-2021";
+}
