@@ -15,3 +15,5 @@ public :
     }
 }; //batas kelas
 
+int main(){
+}
